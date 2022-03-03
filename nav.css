@@ -58,14 +58,14 @@ header{
 .nav-link-apple{ 
     width: 1.6rem;
     height: 4.4rem;
-    background: url("/Images/logo.jfif") center no-repeat;
+    background: url("Images/logo.jfif") center no-repeat;
 }
 
 
 .nav-link-bag{
     width: 1.4rem;
     height: 4.4rem;
-    background: url("/Images/bag.svg") center no-repeat;
+    background: url("Images/bag.svg") center no-repeat;
 }
 
 /* responsive */
