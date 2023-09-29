@@ -13,4 +13,4 @@ Our Project Titled “ Medicine Price Comparison Website” Will Compare Medicin
 
  
 
-[See it Live](https://asmit-pandey.github.io/Asmit-Pandey/)
+[See it Live](https://asmit-pandey.github.io/MedCompare/)
